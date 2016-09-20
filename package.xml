@@ -14,7 +14,6 @@
   <build_depend>freeimage</build_depend>
   <build_depend>glut</build_depend>
   <build_depend>libdevil-dev</build_depend>
-  <build_depend>libosmesa6-dev</build_depend>
   <build_depend>libxi-dev</build_depend>
   <build_depend>libxmu-dev</build_depend>
   <build_depend>sdl</build_depend>
@@ -25,7 +24,6 @@
   <run_depend>freeimage</run_depend>
   <run_depend>glut</run_depend>
   <run_depend>libdevil-dev</run_depend>
-  <run_depend>libosmesa6-dev</run_depend>
   <run_depend>libxi-dev</run_depend>
   <run_depend>libxmu-dev</run_depend>
   <run_depend>sdl</run_depend>
