@@ -44,11 +44,7 @@
 
 #include <boost/date_time/posix_time/posix_time.hpp>
 
-#if USE_GLUT
 #include "renderer3d_impl_glut.h"
-#else
-#include "renderer3d_impl_osmesa.h"
-#endif
 
 Renderer3d::Renderer3d(const std::string & mesh_path)
     :
